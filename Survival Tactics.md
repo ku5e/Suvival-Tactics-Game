@@ -49,39 +49,3 @@ ADDITIONAL NOTES
 - The game ends when a clear 1st, 2nd, and 3rd place can be determined. Once there are 4 players left, they will meet and see if they can agree on the placing, if not they play on until there are only three. Then the meeting is repeated. This goes on until they agree or only one is left.
 - Action points are secret! Probably a good idea to try and hide how many you have.
 - You can't win this game without making some friends and probably some enemies.  KEEP IN MIND THIS IS GAME - DON’T GET MAD IRL - KEEP IT IN THE GAME 
-
-ASSETS
-
-Playing Grid (16x16) 
-
-
-
-||||||||||||||||||
-| :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- |
-||||||||||||||||||
-||||||||||||||||||
-||||||||||||||||||
-||||||||||||||||||
-||||||||||||||||||
-||||||||||||||||||
-||||||||||||||||||
-||||||||||||||||||
-||||||||||||||||||
-||||||||||||||||||
-||||||||||||||||||
-||||||||||||||||||
-||||||||||||||||||
-||||||||||||||||||
-||||||||||||||||||
-||||||||||||||||||
-Heart Player
-
-Animals - Lion, Leopard, Elephant, Snake, Bull,  Shark, Bear, Alligator, Rhinoceros, Gorilla, Wolf,  ![](Aspose.Words.9fdfb888-dd85-4919-92a2-a6772acde5cd.001.png)![](Aspose.Words.9fdfb888-dd85-4919-92a2-a6772acde5cd.002.png)
-
-Tiger, Eagle, Red Panda, Badger, and Hyena 
-
-Colors - Red, Orange, Yellow, Green, Blue,   Purple, White, and Brown (repeated)                   
-
-Action Point Downed Player Token Holder
-
-![](Aspose.Words.9fdfb888-dd85-4919-92a2-a6772acde5cd.003.png)![](Aspose.Words.9fdfb888-dd85-4919-92a2-a6772acde5cd.004.png)![](Aspose.Words.9fdfb888-dd85-4919-92a2-a6772acde5cd.005.png)
