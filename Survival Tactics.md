@@ -5,6 +5,7 @@ PLAYING FIELD
 - For 6 to 16 players.
 - Game is played on a 17 x 17 grid (Grid should be adjusted down for less players). (15x15 in BETA)
 
+
 RULES
 
 - All players start at a random location on the grid, and have 3 hearts and 0 Action Points.
@@ -25,7 +26,9 @@ RULES
     3. Add a heart (3 AP)
     4. Upgrade your range (3 AP)
     5. Do nothing
+
   And one of these 2 actions
+ 
     1. Give 1 heart with any player in range. (See below)
     2. Give up to 3 action points to any player in range. (See below)
     
@@ -36,6 +39,7 @@ RULES
 - If a player is reduced to 0 hearts, then they are downed. Any action points the downed player had are transferred to the player who downed them. Downed players remain on the board and not removed.
 
 - Downed players can have a heart sent to them. This will revive that player and they will have 1 heart and 0 AP.
+
 
 ADDITIONAL NOTES
 
@@ -58,4 +62,4 @@ ADDITIONAL NOTES
 
 - You can't win this game without making some friends and probably some enemies.
 
-KEEP IN MIND THIS IS GAME - DON’T GET MAD IRL - KEEP IT IN THE GAME 
+KEEP IN MIND THIS IS GAME - DON’T GET MAD IRL - KEEP IT IN THE GAME
