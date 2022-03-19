@@ -15,12 +15,29 @@ def coinFlip():
 	coins = [True, False]
 	return random.choice(coins)
 
-print('Heart at', xCoord(), '-', yCoord(15))
-coin = coinFlip()
+def makePlayers(x):
+	playerCoords = []
+	for i in range(x):
+		playerCoords.append((str(xCoord()) + ' - ' + str(yCoord(15))))
+	players = list(set(playerCoords))
+	if len(playerCoords) != len(players):
+		makePlayers(x)
+	else:
+		return players
 
+
+coin = coinFlip()
+count = 0
+count = int(input("how many players? ") or '0')
+
+positions = makePlayers(count)
+for x in positions:
+	print(x)
+ 
+print('Heart at', xCoord(), '-', yCoord(15))
 
 if coin:
-	print('AP positioned at')
-	print(coin, xCoord(), '-', yCoord(15))
+	print('AP positioned at', end=' ')
+	print(xCoord(), '-', yCoord(15))
 else: 
 	print('No AP today')
